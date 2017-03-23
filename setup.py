@@ -7,12 +7,12 @@ from distutils.core import setup
 setup(
   name = 'sim-tree',
   packages = ['sim-tree'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.3',
   description = 'A module for automating hierarchical simulation studies',
   author = 'Ben Lindsay',
   author_email = 'benjlindsay@gmail.com',
   url = 'https://github.com/benlindsay/sim-tree',
-  download_url = 'https://github.com/benlindsay/sim-tree/archive/0.1.tar.gz',
+  download_url = 'https://github.com/benlindsay/sim-tree/archive/0.3.tar.gz',
   keywords = ['workflow', 'simulations'],
   classifiers = [],
 )
